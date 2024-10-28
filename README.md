@@ -3,3 +3,6 @@ In this file I will write all the commits im doing daily, because GitHub Desktop
 22/10
 Posted products view view for the delivery application.
 Changes on design and functionalities
+
+28/10
+new features for portfolio
