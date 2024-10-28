@@ -5,4 +5,4 @@ Posted products view view for the delivery application.
 Changes on design and functionalities
 
 28/10
-new features for portfolio
+new features for Portfolio
