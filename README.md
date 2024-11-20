@@ -6,3 +6,6 @@ Changes on design and functionalities
 
 28/10
 new features for Portfolio
+
+20/11
+Security changes and improvement for portfolio
